@@ -16,7 +16,7 @@ public class SMA_VARK {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Estoy enfermo");
+        System.out.println("Estoy enfermo fernando canta feo");
     }
     
 }
