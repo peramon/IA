@@ -16,7 +16,7 @@ public class SMA_VARK {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Lol 2");
+        System.out.println("Estoy enfermo");
     }
     
 }
